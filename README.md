@@ -12,36 +12,37 @@ The project is optimize for the mobile devices. it combines MediaPipe hand track
 
 This project utilizes particle systems and real-time gesture detection to render volume-based cursed techniques.
 
-Secret Technique: Hollow Purple
+1. Secret Technique: Hollow Purple
 
-Visuals:
+   - Visuals:
 A chaotic singularity combining attraction and repulsion.
 
-Trigger:
+   - Trigger:
 Pinch gesture (thumb + index finger touching).
 
 
-Domain Expansion: Infinite Void
+2. Domain Expansion: Infinite Void
 
-Visuals:
-A multi-layered celestial domain featuring:
+   - Visuals:
+A multi-layered celestial domain featuring: a bright event horizon ring
 
-- a bright event horizon ring
-- a vertical stream of infinite information
-- a deep cosmic background
-
-Trigger:
+   - Trigger:
 Cross gesture (index + middle fingers crossed).
 
 
-Cursed Technique Reversal: Red
+3. Cursed Technique Reversal: Red
 
-Visuals:
+   - Visuals:
 A blinding white-hot core generating a violent, jagged sphere of repulsive force.
 
-Trigger:
+   - Trigger:
 Index finger pointing upward.
 
+4. Domain Expansion: Malevolent Shrine
+   - Visuals:
+     The shrine takes the form of a derelict, open-air Buddhist temple.
+   - Trigger:
+     Flat hand/Prayer gesture
 ---
 
 # Getting Started
