@@ -1,2 +1,84 @@
 # Cursed-Technique
-​Cursed Technique is a real-time, gesture-based AR visualizer that puts the power of Jujutsu Kaisen (呪術廻戦) right in your pocket. Using your phone's camera, it detects your movements to manifest cursed techniques in the world around you.
+​Cursed Technique is a real-time, gesture-based AR visualizer inspired by Jujutsu Kaisen (呪術廻戦).
+Using your device’s camera, it detects hand gestures and manifests cursed techniques in the world around you through immersive particle-based visual effects.
+
+The project is optimize for the mobile devices. it combines MediaPipe hand tracking with Three.js rendering to recreate iconic abilities from the series directly in the browser.
+
+---
+
+# Features
+
+This project utilizes particle systems and real-time gesture detection to render volume-based cursed techniques.
+
+Secret Technique: Hollow Purple
+
+Visuals:
+A chaotic singularity combining attraction and repulsion.
+
+Trigger:
+Pinch gesture (thumb + index finger touching).
+
+
+Domain Expansion: Infinite Void
+
+Visuals:
+A multi-layered celestial domain featuring:
+
+- a bright event horizon ring
+- a vertical stream of infinite information
+- a deep cosmic background
+
+Trigger:
+Cross gesture (index + middle fingers crossed).
+
+
+Cursed Technique Reversal: Red
+
+Visuals:
+A blinding white-hot core generating a violent, jagged sphere of repulsive force.
+
+Trigger:
+Index finger pointing upward.
+
+---
+
+# Getting Started
+
+Prerequisites You need:
+
+  - A modern browser (Chrome, Edge, or Firefox)
+  - Internet access for loading libraries
+
+---
+
+# Run the project
+
+Open the Link:
+
+https://cursed-technique.netlify.app/
+
+Then:
+
+1. Click on Camera button
+2. Allow all the necessary permission.
+
+Your browser will run the project automatically.
+
+---
+
+# How It Works
+
+The system pipeline works like this:
+
+Camera → MediaPipe Hand Tracking → Gesture Detection → Three.js Particle System → Rendered Cursed Technique
+
+1. MediaPipe tracks hand landmarks in real time.
+2. The gesture recognition system interprets finger positions.
+3. Each recognized gesture activates a specific technique.
+4. Three.js generates particle-based volumetric effects in a 3D scene.
+
+---
+
+# Note
+
+This project was built and powered by Google Gemini 3. it's created for experimental purposes inspired by the Jujutsu Kaisen universe.
