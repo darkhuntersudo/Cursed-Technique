@@ -1,3 +1,5 @@
+<img width="736" height="980" alt="Untitled (1)" src="https://github.com/user-attachments/assets/75b8b568-6c43-4555-811c-789109a95d86" />
+
 # Cursed-Technique
 ​Cursed Technique is a real-time, gesture-based AR visualizer inspired by Jujutsu Kaisen (呪術廻戦).
 Using your device’s camera, it detects hand gestures and manifests cursed techniques in the world around you through immersive particle-based visual effects.
